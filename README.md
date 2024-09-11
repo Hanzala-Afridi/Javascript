@@ -1,0 +1,2 @@
+# Javascript
+JavaScript Learning Journey 🚀
